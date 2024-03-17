@@ -1,0 +1,23 @@
+{
+  "name": "tea-protocol-interaction",
+  "version": "1.0.0",
+  "description": "Interaction with Tea Protocol. Creating my own OSS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakymetsDmytro/tea-protocol-interaction.git"
+  },
+  "dependencies": { 
+    "tea-protocol-interaction": "1.0.0",
+    "tea-protocol-oss-demeter": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YakymetsDmytro/tea-protocol-interaction/issues"
+  },
+  "homepage": "https://github.com/YakymetsDmytro/tea-protocol-interaction#readme"
+}
